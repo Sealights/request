@@ -7,7 +7,7 @@
     "util",
     "utility"
   ],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
   "repository": {
     "type": "git",
@@ -26,6 +26,7 @@
     "index.js",
     "request.js"
   ],
+  "types": "types/sl-requeste.d.ts",
   "dependencies": {
     "@types/request": "0.0.45",
     "aws-sign2": "~0.7.0",
