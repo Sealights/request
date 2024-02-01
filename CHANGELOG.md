@@ -1,5 +1,7 @@
 ## Change Log
-
+### v1.1.0 (2024/02/01)
+- forked from original repository (https://github.com/request/request)
+- Update tough-coockie
 ### v2.88.0 (2018/08/10)
 - [#2996](https://github.com/request/request/pull/2996) fix(uuid): import versioned uuid (@kwonoj)
 - [#2994](https://github.com/request/request/pull/2994) Update to oauth-sign 0.9.0 (@dlecocq)
