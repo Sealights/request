@@ -29,7 +29,6 @@
   ],
   "types": "index.d.ts",
   "dependencies": {
-    "@types/request": "0.0.45",
     "aws-sign2": "~0.7.0",
     "aws4": "^1.8.0",
     "caseless": "~0.12.0",
